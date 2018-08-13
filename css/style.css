@@ -38,3 +38,8 @@ h2 {
 
 	font-size: 2em;
 }
+
+#featured-img {
+
+	border: 5px #93AFA6 solid;
+}
