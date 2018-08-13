@@ -55,6 +55,11 @@ p  {
 	border: 5px #CCCCCC solid;
 }
 
+#press {
+
+	padding: 10px;
+}
+
 footer {
 
 	text-align: right;
