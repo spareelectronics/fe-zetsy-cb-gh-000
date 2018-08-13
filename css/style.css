@@ -39,6 +39,12 @@ h2 {
 	font-size: 2em;
 }
 
+p  {
+	color: #555;
+	font-size: 1em;
+	margin: 0 0 20px 0;
+}
+
 #featured-img {
 
 	border: 5px #93AFA6 solid;
